@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">trivia</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+    <string name="next">next</string>
+    <string name="restart_game">RESTART GAME</string>
+    <string name="d_o_n_e">D O N E ! =)</string>
+    <string name="your_score_is">your score is:</string>
+    <string name="the_best_score_is">The best score is:</string>
+</resources>
